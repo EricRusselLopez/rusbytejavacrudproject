@@ -1,8 +1,3 @@
-Russel,russel@gmail.com,Russel@2024,member,2025-03-02
-Jayron,jayron@gmail.com,Jayron#78,member,2025-02-28
-NebNek,kenlordian@gmail.com,NebNek$56,member,2025-02-27
-Psalm,psalm@gmail.com,Psalm!123,member,2025-02-26
-Vhasty,vhasty@gmail.com,Vhasty@99,member,2025-02-25
 Axel,axel@gmail.com,Axel#1616,member,2025-02-24
 Lincoln,lincoln@gmail.com,Lincoln!59,member,2025-02-23
 Samuel,samuel@gmail.com,Samuel#828,member,2025-02-22
